@@ -34,6 +34,4 @@ print(f'Lives remaining: {lives}')
 
 
 while lives > 6 and not has_won():
-
-
-
+    pass
